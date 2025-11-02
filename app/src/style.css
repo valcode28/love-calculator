@@ -18,11 +18,11 @@ header h1 {
 }
 
 .bg-color {
-    background-image: url("../dating-background.jpg");
+    background-image: url("./img/dating-background.jpg");
     background-position: center;
     background-repeat: repeat;
     background-size: contain;
-    
+
 }
 
 .width-100 {
